@@ -1,0 +1,1377 @@
+id,dates,cardinal_points,region,city,latitude,longitude,category,commodity,unit,price_flag,price_type,currency,price,usd_price
+1,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1304
+2,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+3,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.9,0.413
+4,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+5,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Rice,KG,actual,Retail,LYD,2.8,0.6086
+6,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1,0.2174
+7,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,7.5,1.6302
+8,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.4,0.9564
+9,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12.5,2.7169
+10,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,22,4.7818
+11,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,4,0.8694
+12,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+13,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,30,6.5207
+14,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,miscellaneous food,Salt,KG,actual,Retail,LYD,1.3,0.2826
+15,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,miscellaneous food,Sugar,KG,actual,Retail,LYD,2.5,0.5434
+16,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,8,1.7388
+17,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,6,1.3041
+18,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+19,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+20,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+21,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+22,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.5,0.5434
+23,6/15/2017,East,Derna,Derna,32.75938034,22.63831902,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.5,0.326
+24,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.3,0.2826
+25,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+26,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.05,0.4456
+27,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+28,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Rice,KG,actual,Retail,LYD,3.25,0.7064
+29,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.3,0.2826
+30,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,6.5,1.4128
+31,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.55,0.989
+32,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,8.2,1.7823
+33,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.13,0.6803
+34,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,8,1.7388
+35,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,40,8.6942
+36,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+37,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+38,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,9,1.9562
+39,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.25,1.1411
+40,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.38,0.3
+41,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3,0.6521
+42,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+43,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+44,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+45,6/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+46,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+47,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+48,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.2,0.4782
+49,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+50,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+51,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+52,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,7.5,1.6302
+53,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5,1.0868
+54,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,9.4,2.0431
+55,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.5,0.5434
+56,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,9,1.9562
+57,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,40,8.6942
+58,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+59,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+60,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,9,1.9562
+61,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,6.5,1.4128
+62,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.52,0.3304
+63,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+64,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+65,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+66,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+67,6/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3,0.6521
+68,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1087
+69,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.4,0.739
+70,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.65,0.3586
+71,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+72,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+73,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+74,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,8.25,1.7932
+75,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.85,1.0542
+76,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.3,2.4561
+77,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,27.5,5.9773
+78,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.63,0.5716
+79,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.25,0.9238
+80,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,miscellaneous food,Salt,KG,actual,Retail,LYD,0.9,0.1956
+81,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+82,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7.25,1.5758
+83,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4.9,1.065
+84,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,0.98,0.213
+85,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4,0.8694
+86,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+87,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,2,0.4347
+88,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+89,6/15/2017,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+90,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1087
+91,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.4,0.739
+92,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.65,0.3586
+93,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+94,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+95,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+96,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,8.25,1.7932
+97,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.85,1.0542
+98,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.3,2.4561
+99,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,27.5,5.9773
+100,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.63,0.5716
+101,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.25,0.9238
+102,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,miscellaneous food,Salt,KG,actual,Retail,LYD,0.9,0.1956
+103,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+104,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7.25,1.5758
+105,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4.9,1.065
+106,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,0.98,0.213
+107,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4,0.8694
+108,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+109,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,2,0.4347
+110,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+111,6/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+112,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+113,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+114,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+115,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+116,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Rice,KG,actual,Retail,LYD,3.5,0.7607
+117,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.15,0.25
+118,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,7.5,1.6302
+119,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.75,1.0324
+120,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,9,1.9562
+121,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,19,4.1298
+122,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.88,0.4086
+123,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.75,1.0324
+124,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,38.8,8.4334
+125,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+126,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+127,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7,1.5215
+128,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4.9,1.065
+129,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.24,0.2695
+130,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+131,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.4,0.5217
+132,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,1.75,0.3804
+133,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,vegetables and fruits,Onions,KG,actual,Retail,LYD,1.5,0.326
+134,6/15/2017,West,Nalut,Nalut,31.86422729,10.98298264,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.5,0.326
+135,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+136,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+137,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+138,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+139,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+140,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.25,0.2717
+141,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,6.5,1.4128
+142,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4,0.8694
+143,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11,2.3909
+144,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,22,4.7818
+145,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.5,0.5434
+146,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.8,1.0433
+147,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,46.9,10.194
+148,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+149,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+150,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7.65,1.6628
+151,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+152,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+153,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3,0.6521
+154,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+155,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,2,0.4347
+156,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,vegetables and fruits,Onions,KG,actual,Retail,LYD,1.5,0.326
+157,6/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1,0.2174
+177,7/15/2017,East,Derna,Derna,32.75938034,22.63831902,pulses and nuts,Beans,400 G,actual,Retail,LYD,3,0.6521
+191,7/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,30,6.5207
+201,7/15/2017,South,Sebha,Sebha,27.03734016,14.42531967,pulses and nuts,Beans,400 G,actual,Retail,LYD,2,0.4347
+215,7/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,29,6.3033
+225,7/15/2017,South,Wadi Ashshati,Brak,27.55163002,14.27214432,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.25,0.4891
+270,7/15/2017,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,pulses and nuts,Beans,400 G,actual,Retail,LYD,4.5,0.9781
+317,7/15/2017,West,Sirt,Sirt,31.20596313,16.58362007,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+483,9/15/2017,East,Benghazi,Benghazi,32.12883377,20.08172035,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,14,3.043
+601,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+602,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+603,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Pasta,500 G,actual,Retail,LYD,3,0.6521
+604,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+605,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Rice,KG,actual,Retail,LYD,3.38,0.7347
+606,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+607,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10,2.1736
+608,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3,0.6521
+609,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,13,2.8256
+610,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,33,7.1727
+611,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,4.25,0.9238
+612,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.5,0.9781
+613,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,11.5,2.4996
+614,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+615,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.75,0.8151
+616,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,10.5,2.2822
+617,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,10,2.1736
+618,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+619,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+620,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+621,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+622,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3,0.6521
+623,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,vegetables and fruits,Onions,KG,actual,Retail,LYD,1.75,0.3804
+624,9/15/2017,West,Misrata,Zliten,32.46756363,14.56564045,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.75,0.3804
+671,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1369
+672,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+673,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+674,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+675,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+676,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+677,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10,2.1736
+678,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.69,1.0194
+679,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,10.45,2.2714
+680,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,32,6.9554
+681,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.76,0.3825
+682,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.75,0.8151
+683,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+684,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.5,0.7607
+685,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.75,1.4672
+686,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+687,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+688,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4,0.8694
+689,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+690,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+691,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3,0.6521
+692,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+693,10/15/2017,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.5,0.326
+719,10/15/2017,East,Ejdabia,Ejdabia,30.75500298,20.22332573,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,10.5,2.2822
+720,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1674
+721,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+722,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.75,0.3804
+723,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+724,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+725,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+726,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10,2.1736
+727,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5,1.0868
+728,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12,2.6083
+729,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,35,7.6074
+730,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.2,0.4782
+731,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,5,1.0868
+732,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,19,4.1298
+733,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+734,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.5,0.7607
+735,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,8,1.7388
+736,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+737,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+738,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+739,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+740,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+741,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3,0.6521
+742,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+743,10/15/2017,East,Tobruk,Tobruk,32.07743073,23.96001434,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.5,0.326
+744,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+745,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Couscous,KG,actual,Retail,LYD,4.63,1.0064
+746,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+747,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+748,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Rice,KG,actual,Retail,LYD,3.63,0.789
+749,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+750,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12.13,2.6365
+751,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4,0.8694
+752,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,9.75,2.1192
+753,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,29.25,6.3577
+754,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.63,0.789
+755,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,5.25,1.1411
+756,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,10.25,2.2279
+757,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,miscellaneous food,Salt,KG,actual,Retail,LYD,1.13,0.2456
+758,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,miscellaneous food,Sugar,KG,actual,Retail,LYD,4,0.8694
+759,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,10,2.1736
+760,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,3.5,0.7607
+761,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+762,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.88,0.8433
+763,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.63,0.5716
+764,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4.5,0.9781
+765,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.5,0.5434
+766,10/15/2017,South,Ghat,Ghat,24.96262932,10.17971706,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.13,0.6803
+767,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+768,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Couscous,KG,actual,Retail,LYD,5,1.0868
+769,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.25,0.4891
+770,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+771,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Rice,KG,actual,Retail,LYD,5,1.0868
+772,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.5,0.5434
+773,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,14.5,3.1517
+774,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.25,0.9238
+775,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11,2.3909
+776,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,23,4.9992
+777,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,6.5,1.4128
+778,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,6.25,1.3585
+779,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,25,5.4339
+780,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,miscellaneous food,Salt,KG,actual,Retail,LYD,1.13,0.2456
+781,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+782,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,10,2.1736
+783,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,7.5,1.6302
+784,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2,0.4347
+785,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5,1.0868
+786,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,pulses and nuts,Beans,400 G,actual,Retail,LYD,3,0.6521
+787,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3,0.6521
+788,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+789,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+790,10/15/2017,South,Murzuq,Algatroun,24.88885117,14.53148365,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.5,0.7607
+791,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,2,0.4347
+792,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Couscous,KG,actual,Retail,LYD,3,0.6521
+793,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2,0.4347
+794,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Potatoes,KG,actual,Retail,LYD,4,0.8694
+795,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+796,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.75,0.3804
+797,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12,2.6083
+798,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4,0.8694
+799,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,18.5,4.0211
+800,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,23,4.9992
+801,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.5,0.5434
+802,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.75,1.0324
+803,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,20,4.3471
+804,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,miscellaneous food,Salt,KG,actual,Retail,LYD,1.25,0.2717
+805,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+806,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7,1.5215
+807,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,7,1.5215
+808,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2,0.4347
+809,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5,1.0868
+810,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3,0.6521
+811,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6,1.3041
+812,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.5,0.7607
+813,10/15/2017,South,Murzuq,Murzuq,25.91408539,13.9197197,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3,0.6521
+838,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+839,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Couscous,KG,actual,Retail,LYD,4.75,1.0324
+840,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.5,0.5434
+841,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.5,0.7607
+842,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+843,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+844,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12.5,2.7169
+845,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.5,0.7607
+846,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.25,2.4453
+847,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.04,0.6608
+848,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,6,1.3041
+849,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,24,5.2165
+850,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,miscellaneous food,Salt,KG,actual,Retail,LYD,1.75,0.3804
+851,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+852,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,7.75,1.6845
+853,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,7.25,1.5758
+854,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2,0.4347
+855,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4.25,0.9238
+856,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3,0.6521
+857,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5,1.0868
+858,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.63,0.5716
+859,10/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3,0.6521
+929,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+930,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+931,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+932,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2,0.4347
+933,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+934,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.25,0.2717
+935,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,9,1.9562
+936,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.75,0.8151
+937,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,9,1.9562
+938,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.5,0.7607
+939,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3,0.6521
+940,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12.5,2.7169
+941,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+942,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.25,0.7064
+943,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+944,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+945,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+946,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+947,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3,0.6521
+948,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,2.5,0.5434
+949,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+950,10/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+975,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+976,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+977,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2,0.4347
+978,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+979,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Rice,KG,actual,Retail,LYD,3.5,0.7607
+980,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.25,0.4891
+981,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,11.5,2.4996
+982,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.75,0.8151
+983,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,15.5,3.369
+984,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,28,6.086
+985,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.25,0.4891
+986,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,5,1.0868
+987,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,23,4.9992
+988,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,miscellaneous food,Salt,KG,actual,Retail,LYD,1.5,0.326
+989,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+990,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,2.38,0.5173
+991,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,1.41,0.3065
+992,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.5,0.326
+993,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5,1.0868
+994,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,pulses and nuts,Beans,400 G,actual,Retail,LYD,3,0.6521
+995,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3.5,0.7607
+996,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3.5,0.7607
+997,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+998,10/15/2017,West,Nalut,Ghadamis,30.12584114,9.490065575,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2.5,0.5434
+1046,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.13,0.2456
+1047,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+1048,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.75,0.3804
+1049,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+1050,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Rice,KG,actual,Retail,LYD,3.63,0.789
+1051,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.75,0.3804
+1052,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,11,2.3909
+1053,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5,1.0868
+1054,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12.5,2.7169
+1055,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,30,6.5207
+1056,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.29,0.4977
+1057,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.5,0.9781
+1058,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+1059,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.13,0.8977
+1060,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,9.5,2.0649
+1061,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+1062,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.38,0.3
+1063,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.75,0.8151
+1064,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.75,0.5977
+1065,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3.5,0.7607
+1066,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.75,0.5977
+1067,10/15/2017,West,Zwara,Zwara,32.91911316,12.07797241,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2.75,0.5977
+1335,11/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,35,7.6074
+1345,11/15/2017,West,Almargeb,Tarhuna,32.4279213,13.64192581,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+1350,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+1351,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Couscous,KG,actual,Retail,LYD,2.75,0.5977
+1352,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.25,0.2717
+1353,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.25,0.4891
+1354,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Rice,KG,actual,Retail,LYD,2.75,0.5977
+1355,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.25,0.2717
+1356,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,13.5,2.9343
+1357,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.06,0.8825
+1358,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11,2.3909
+1359,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,35,7.6074
+1360,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.5,0.7607
+1361,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+1362,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12.5,2.7169
+1363,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+1364,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.5,0.7607
+1365,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+1366,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+1367,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+1368,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+1369,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+1370,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3.5,0.7607
+1371,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,2.5,0.5434
+1372,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,vegetables and fruits,Onions,KG,actual,Retail,LYD,2,0.4347
+1373,11/15/2017,West,Misrata,Bani Waleed,31.79758072,14.05368042,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2.25,0.4891
+1514,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1369
+1515,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+1516,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+1517,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.5,0.5434
+1518,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+1519,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+1520,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,13,2.8256
+1521,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.38,0.952
+1522,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12.12,2.6344
+1523,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,37,8.0422
+1524,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.76,0.3825
+1525,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+1526,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,22,4.7818
+1527,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+1528,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.5,0.9781
+1529,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,8,1.7388
+1530,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+1531,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.5,0.326
+1532,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.25,0.7064
+1533,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.75,0.5977
+1534,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+1535,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.5,0.5434
+1536,12/15/2017,East,Almarj,AlMarj,32.48571396,20.8338356,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+1667,12/15/2017,South,Ubari,Ubari,26.58852768,12.76611328,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,33,7.1727
+1750,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.41,0.3065
+1751,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.13,0.6803
+1752,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.38,0.3
+1753,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+1754,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+1755,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+1756,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12.5,2.7169
+1757,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5,1.0868
+1758,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.75,2.5539
+1759,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,31.5,6.8467
+1760,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.25,0.4891
+1761,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.63,0.789
+1762,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+1763,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.5,0.9781
+1764,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+1765,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+1766,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+1767,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3,0.6521
+1768,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+1769,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.88,0.626
+1770,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3.38,0.7347
+1771,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.5,0.5434
+1772,12/15/2017,West,Aljfara,Al Aziziya,32.53308868,13.01762009,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3,0.6521
+1915,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.46,0.3173
+1916,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.13,0.6803
+1917,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+1918,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+1919,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+1920,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.88,0.4086
+1921,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12.63,2.7452
+1922,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.44,0.9651
+1923,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,14,3.043
+1924,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,39,8.4769
+1925,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.16,0.4695
+1926,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.25,0.7064
+1927,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12,2.6083
+1928,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+1929,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.5,0.9781
+1930,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.88,1.4954
+1931,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4.88,1.0607
+1932,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.13,0.2456
+1933,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.25,0.7064
+1934,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.75,0.5977
+1935,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6.25,1.3585
+1936,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+1937,12/15/2017,West,Zwara,Sabratha,32.7906189,12.48266983,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,4.13,0.8977
+1977,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Diapers,30 pcs,actual,Retail,LYD,18,3.9124
+1978,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.44,0.9651
+1979,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+1980,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Laundry soap,KG,actual,Retail,LYD,10,2.1736
+1981,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+1982,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Shampoo,250 ML,actual,Retail,LYD,3.13,0.6803
+1983,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Toothbrush,Brush,actual,Retail,LYD,2,0.4347
+1984,1/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Toothpaste,100 ML,actual,Retail,LYD,10,2.1736
+1991,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+1992,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Couscous,KG,actual,Retail,LYD,5,1.0868
+1993,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.12,0.4619
+1994,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3,0.6521
+1995,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Rice,KG,actual,Retail,LYD,3.5,0.7607
+1996,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.62,0.5706
+1997,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,14.5,3.1517
+1998,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,6,1.3041
+1999,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12,2.6083
+2000,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,40,8.6942
+2001,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.5,0.5434
+2002,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+2003,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,miscellaneous food,Salt,KG,actual,Retail,LYD,1.67,0.363
+2004,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,miscellaneous food,Sugar,KG,actual,Retail,LYD,6.25,1.3585
+2005,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,8,1.7388
+2006,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,7.5,1.6302
+2007,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2,0.4347
+2008,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Diapers,30 pcs,actual,Retail,LYD,29,6.3033
+2009,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Dishwashing liquid,L,actual,Retail,LYD,6.86,1.49
+2010,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Handwash soap,Bar,actual,Retail,LYD,2.38,0.5162
+2011,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Laundry soap,KG,actual,Retail,LYD,14.5,3.1517
+2012,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,7,1.5215
+2013,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Shampoo,250 ML,actual,Retail,LYD,12.5,2.7169
+2014,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2015,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Toothpaste,100 ML,actual,Retail,LYD,10,2.1736
+2016,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5,1.0868
+2017,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,pulses and nuts,Beans,400 G,actual,Retail,LYD,3.38,0.7336
+2018,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,4.25,0.9238
+2019,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5,1.0868
+2020,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+2021,1/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.5,0.7607
+2040,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Diapers,30 pcs,actual,Retail,LYD,24,5.2165
+2041,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Dishwashing liquid,L,actual,Retail,LYD,6.33,1.3769
+2042,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2043,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Laundry soap,KG,actual,Retail,LYD,10,2.1736
+2044,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4.17,0.9053
+2045,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Shampoo,250 ML,actual,Retail,LYD,4.34,0.9444
+2046,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Toothbrush,Brush,actual,Retail,LYD,1.75,0.3804
+2047,1/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Toothpaste,100 ML,actual,Retail,LYD,6.5,1.4128
+2053,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1554
+2054,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.7,0.8042
+2055,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.25,0.2717
+2056,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2.75,0.5977
+2057,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Rice,KG,actual,Retail,LYD,3.17,0.6901
+2058,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.75,0.3804
+2059,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,14.38,3.1245
+2060,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.62,1.0053
+2061,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.82,2.5691
+2062,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,33.5,7.2814
+2063,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.54,0.3358
+2064,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3,0.6521
+2066,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+2067,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+2068,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,4.25,0.9238
+2069,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4.3,0.9346
+2070,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+2071,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Diapers,30 pcs,actual,Retail,LYD,19.18,4.1689
+2072,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.98,1.0824
+2073,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Handwash soap,Bar,actual,Retail,LYD,1.43,0.3097
+2074,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Laundry soap,KG,actual,Retail,LYD,9.12,1.9823
+2075,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4.12,0.8966
+2076,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Shampoo,250 ML,actual,Retail,LYD,3.21,0.6988
+2077,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Toothbrush,Brush,actual,Retail,LYD,2.12,0.4619
+2078,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Toothpaste,100 ML,actual,Retail,LYD,6.42,1.3943
+2079,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3,0.6521
+2080,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.58,0.5597
+2081,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3.12,0.6792
+2082,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,7.5,1.6302
+2083,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+2084,1/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.75,0.3804
+2103,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Diapers,30 pcs,actual,Retail,LYD,18,3.9124
+2104,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Dishwashing liquid,L,actual,Retail,LYD,3,0.6521
+2105,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2106,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Laundry soap,KG,actual,Retail,LYD,8.33,1.8106
+2107,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4,0.8694
+2108,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Shampoo,250 ML,actual,Retail,LYD,4.5,0.9781
+2109,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Toothbrush,Brush,actual,Retail,LYD,2,0.4347
+2110,1/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Toothpaste,100 ML,actual,Retail,LYD,7,1.5215
+2117,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1369
+2118,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+2119,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+2120,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2,0.4347
+2121,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+2122,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+2123,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,14.5,3.1517
+2124,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.86,1.0563
+2125,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,13,2.8256
+2126,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,44,9.5636
+2127,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.35,0.5108
+2128,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+2130,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,miscellaneous food,Salt,KG,actual,Retail,LYD,1.5,0.326
+2131,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.75,1.0324
+2132,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,5,1.0868
+2133,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,6,1.3041
+2134,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+2135,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Diapers,30 pcs,actual,Retail,LYD,25,5.4339
+2136,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Dishwashing liquid,L,actual,Retail,LYD,8,1.7388
+2137,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2138,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Laundry soap,KG,actual,Retail,LYD,14,3.043
+2139,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,6,1.3041
+2140,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Shampoo,250 ML,actual,Retail,LYD,3.5,0.7607
+2141,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Toothbrush,Brush,actual,Retail,LYD,1,0.2174
+2142,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Toothpaste,100 ML,actual,Retail,LYD,5,1.0868
+2143,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3,0.6521
+2144,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,pulses and nuts,Beans,400 G,actual,Retail,LYD,2,0.4347
+2145,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+2146,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5,1.0868
+2147,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.25,0.4891
+2148,1/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+2167,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Diapers,30 pcs,actual,Retail,LYD,22,4.7818
+2168,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.67,1.0151
+2169,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2170,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Laundry soap,KG,actual,Retail,LYD,10,2.1736
+2171,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4.69,1.0194
+2172,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Shampoo,250 ML,actual,Retail,LYD,4.44,0.9651
+2173,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Toothbrush,Brush,actual,Retail,LYD,2,0.4347
+2174,1/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Toothpaste,100 ML,actual,Retail,LYD,8,1.7388
+2199,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Diapers,30 pcs,actual,Retail,LYD,29,6.3033
+2200,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Dishwashing liquid,L,actual,Retail,LYD,4,0.8694
+2201,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Handwash soap,Bar,actual,Retail,LYD,1.25,0.2717
+2202,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Laundry soap,KG,actual,Retail,LYD,1.5,0.326
+2203,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,6,1.3041
+2204,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Shampoo,250 ML,actual,Retail,LYD,5.5,1.1955
+2205,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Toothbrush,Brush,actual,Retail,LYD,2.5,0.5434
+2206,1/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.5,0.5434
+2230,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Diapers,30 pcs,actual,Retail,LYD,29,6.3033
+2231,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Dishwashing liquid,L,actual,Retail,LYD,8.75,1.9019
+2232,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Handwash soap,Bar,actual,Retail,LYD,2.75,0.5977
+2233,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Laundry soap,KG,actual,Retail,LYD,1.04,0.226
+2234,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+2235,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Shampoo,250 ML,actual,Retail,LYD,6.75,1.4672
+2236,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Toothbrush,Brush,actual,Retail,LYD,3,0.6521
+2237,1/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Toothpaste,100 ML,actual,Retail,LYD,5.5,1.1955
+2262,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Diapers,30 pcs,actual,Retail,LYD,40,8.6942
+2263,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Dishwashing liquid,L,actual,Retail,LYD,2,0.4347
+2264,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Handwash soap,Bar,actual,Retail,LYD,2.5,0.5434
+2265,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Laundry soap,KG,actual,Retail,LYD,2,0.4347
+2266,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5.5,1.1955
+2267,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Shampoo,250 ML,actual,Retail,LYD,5.25,1.1411
+2268,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Toothbrush,Brush,actual,Retail,LYD,1.5,0.326
+2269,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Toothpaste,100 ML,actual,Retail,LYD,3,0.6521
+2271,1/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,pulses and nuts,Beans,400 G,actual,Retail,LYD,3.75,0.8151
+2294,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Diapers,30 pcs,actual,Retail,LYD,26.25,5.7056
+2295,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.88,1.2781
+2296,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Handwash soap,Bar,actual,Retail,LYD,1.25,0.2717
+2297,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Laundry soap,KG,actual,Retail,LYD,9,1.9562
+2298,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5.32,1.1552
+2299,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Shampoo,250 ML,actual,Retail,LYD,6.69,1.4541
+2300,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Toothbrush,Brush,actual,Retail,LYD,3.25,0.7064
+2301,1/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Toothpaste,100 ML,actual,Retail,LYD,9.5,2.0649
+2326,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Diapers,30 pcs,actual,Retail,LYD,26.5,5.7599
+2327,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Dishwashing liquid,L,actual,Retail,LYD,8,1.7388
+2328,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Handwash soap,Bar,actual,Retail,LYD,2,0.4347
+2329,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Laundry soap,KG,actual,Retail,LYD,11.61,2.5224
+2330,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.17,0.6879
+2331,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Shampoo,250 ML,actual,Retail,LYD,10,2.1736
+2332,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Toothbrush,Brush,actual,Retail,LYD,2.75,0.5977
+2333,1/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Toothpaste,100 ML,actual,Retail,LYD,8,1.7388
+2357,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Diapers,30 pcs,actual,Retail,LYD,26,5.6512
+2358,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.25,0.9238
+2359,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2360,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Laundry soap,KG,actual,Retail,LYD,9.05,1.9671
+2361,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4.25,0.9238
+2362,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Shampoo,250 ML,actual,Retail,LYD,10,2.1736
+2363,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Toothbrush,Brush,actual,Retail,LYD,3.5,0.7607
+2364,1/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Toothpaste,100 ML,actual,Retail,LYD,3.5,0.7607
+2388,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Diapers,30 pcs,actual,Retail,LYD,23,4.9992
+2389,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Dishwashing liquid,L,actual,Retail,LYD,1.17,0.2543
+2390,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2391,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Laundry soap,KG,actual,Retail,LYD,8,1.7388
+2392,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.75,0.8151
+2393,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Shampoo,250 ML,actual,Retail,LYD,5.92,1.2867
+2394,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Toothbrush,Brush,actual,Retail,LYD,4.5,0.9781
+2395,1/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.25,0.4891
+2418,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Diapers,30 pcs,actual,Retail,LYD,20.36,4.4254
+2419,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Dishwashing liquid,L,actual,Retail,LYD,3,0.6521
+2420,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Handwash soap,Bar,actual,Retail,LYD,3.5,0.7607
+2421,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Laundry soap,KG,actual,Retail,LYD,9,1.9562
+2422,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4,0.8694
+2423,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Shampoo,250 ML,actual,Retail,LYD,3.67,0.7966
+2424,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2425,1/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Toothpaste,100 ML,actual,Retail,LYD,5,1.0868
+2449,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Diapers,30 pcs,actual,Retail,LYD,19.29,4.1917
+2450,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Dishwashing liquid,L,actual,Retail,LYD,1.2,0.2608
+2451,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Handwash soap,Bar,actual,Retail,LYD,1.6,0.3478
+2452,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Laundry soap,KG,actual,Retail,LYD,5,1.0868
+2453,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3,0.6521
+2454,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Shampoo,250 ML,actual,Retail,LYD,7.25,1.5758
+2455,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Toothbrush,Brush,actual,Retail,LYD,2.25,0.4891
+2456,1/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Toothpaste,100 ML,actual,Retail,LYD,3,0.6521
+2480,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Diapers,30 pcs,actual,Retail,LYD,18.5,4.0211
+2481,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Dishwashing liquid,L,actual,Retail,LYD,1.2,0.2608
+2482,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Handwash soap,Bar,actual,Retail,LYD,2,0.4347
+2483,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Laundry soap,KG,actual,Retail,LYD,8.33,1.8106
+2484,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+2485,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Shampoo,250 ML,actual,Retail,LYD,6.5,1.4128
+2486,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2487,1/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Toothpaste,100 ML,actual,Retail,LYD,6,1.3041
+2512,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Diapers,30 pcs,actual,Retail,LYD,18.5,4.0211
+2513,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Dishwashing liquid,L,actual,Retail,LYD,1.2,0.2608
+2514,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Handwash soap,Bar,actual,Retail,LYD,2.4,0.5217
+2515,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Laundry soap,KG,actual,Retail,LYD,8.33,1.8106
+2516,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+2517,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Shampoo,250 ML,actual,Retail,LYD,6.5,1.4128
+2518,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2519,1/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Toothpaste,100 ML,actual,Retail,LYD,6,1.3041
+2544,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Diapers,30 pcs,actual,Retail,LYD,22,4.7818
+2545,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Dishwashing liquid,L,actual,Retail,LYD,3.75,0.8151
+2546,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Handwash soap,Bar,actual,Retail,LYD,2.25,0.4891
+2547,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Laundry soap,KG,actual,Retail,LYD,6.5,1.4128
+2548,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5.5,1.1955
+2549,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Shampoo,250 ML,actual,Retail,LYD,6.75,1.4672
+2550,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Toothbrush,Brush,actual,Retail,LYD,1.5,0.326
+2551,1/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Toothpaste,100 ML,actual,Retail,LYD,7.5,1.6302
+2576,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Diapers,30 pcs,actual,Retail,LYD,24,5.2165
+2577,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Dishwashing liquid,L,actual,Retail,LYD,2,0.4347
+2578,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Handwash soap,Bar,actual,Retail,LYD,1.88,0.4075
+2579,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Laundry soap,KG,actual,Retail,LYD,7,1.5215
+2580,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,8,1.7388
+2581,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Shampoo,250 ML,actual,Retail,LYD,9,1.9562
+2582,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Toothbrush,Brush,actual,Retail,LYD,2,0.4347
+2583,1/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Toothpaste,100 ML,actual,Retail,LYD,4.5,0.9781
+2608,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Diapers,30 pcs,actual,Retail,LYD,23.5,5.1079
+2609,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Dishwashing liquid,L,actual,Retail,LYD,2.65,0.576
+2610,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2611,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Laundry soap,KG,actual,Retail,LYD,7.42,1.6117
+2612,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4,0.8694
+2613,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Shampoo,250 ML,actual,Retail,LYD,5.25,1.1411
+2614,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Toothbrush,Brush,actual,Retail,LYD,1.5,0.326
+2615,1/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Toothpaste,100 ML,actual,Retail,LYD,5.21,1.1324
+2639,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Diapers,30 pcs,actual,Retail,LYD,18.75,4.0754
+2640,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.5,0.9781
+2641,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2642,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Laundry soap,KG,actual,Retail,LYD,7.75,1.6845
+2643,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.5,0.7607
+2644,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Shampoo,250 ML,actual,Retail,LYD,5,1.0868
+2645,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Toothbrush,Brush,actual,Retail,LYD,1.75,0.3804
+2646,1/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Toothpaste,100 ML,actual,Retail,LYD,7,1.5215
+2653,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+2654,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.1,0.6738
+2655,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.3,0.2826
+2656,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.5,0.7607
+2657,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Rice,KG,actual,Retail,LYD,2.86,0.6216
+2658,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.3,0.2826
+2659,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,13,2.8256
+2660,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.1,0.8912
+2661,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12,2.6083
+2662,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,36,7.8248
+2663,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.5,0.7607
+2664,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.4,0.9564
+2665,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12.5,2.7169
+2666,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+2667,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.8,0.826
+2668,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+2669,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+2670,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.3,0.2826
+2671,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Diapers,30 pcs,actual,Retail,LYD,18.5,4.0211
+2672,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Dishwashing liquid,L,actual,Retail,LYD,0.83,0.1804
+2673,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Handwash soap,Bar,actual,Retail,LYD,2.25,0.4891
+2674,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Laundry soap,KG,actual,Retail,LYD,8.33,1.8106
+2675,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+2676,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Shampoo,250 ML,actual,Retail,LYD,6.5,1.4128
+2677,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2678,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Toothpaste,100 ML,actual,Retail,LYD,6,1.3041
+2679,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+2680,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+2681,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3.5,0.7607
+2682,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3,0.6521
+2683,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.5,0.7607
+2684,1/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,4,0.8694
+2685,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+2686,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.75,0.8151
+2687,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.38,0.2989
+2688,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2,0.4347
+2689,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+2690,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.5,0.5434
+2691,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,15,3.2603
+2692,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5.07,1.102
+2693,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,10.5,2.2822
+2694,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,29,6.3033
+2695,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.34,0.2923
+2696,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.5,0.7607
+2697,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,18,3.9124
+2698,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+2699,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.75,1.0324
+2700,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6,1.3041
+2701,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.25,1.1411
+2702,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+2703,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Diapers,30 pcs,actual,Retail,LYD,14.91,3.2408
+2704,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Dishwashing liquid,L,actual,Retail,LYD,6.27,1.3628
+2705,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Handwash soap,Bar,actual,Retail,LYD,2.25,0.4891
+2706,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Laundry soap,KG,actual,Retail,LYD,6.83,1.4856
+2707,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.25,0.7064
+2708,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Shampoo,250 ML,actual,Retail,LYD,3.98,0.8662
+2709,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Toothbrush,Brush,actual,Retail,LYD,2.75,0.5977
+2710,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Toothpaste,100 ML,actual,Retail,LYD,5.5,1.1955
+2711,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.19,0.6934
+2712,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+2713,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+2714,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,7.5,1.6302
+2715,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+2716,1/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2.25,0.4891
+2717,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+2718,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Couscous,KG,actual,Retail,LYD,2.9,0.6303
+2719,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.3,0.2826
+2720,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.3,0.7173
+2721,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.3,0.2826
+2722,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,13,2.8256
+2723,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.1,0.8912
+2724,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,12,2.6083
+2725,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,36,7.8248
+2726,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,3.5,0.7607
+2727,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4.3,0.9346
+2728,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12.5,2.7169
+2729,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+2730,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.8,0.826
+2731,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+2732,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.5,1.1955
+2733,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.3,0.2826
+2734,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Diapers,30 pcs,actual,Retail,LYD,18.5,4.0211
+2735,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Dishwashing liquid,L,actual,Retail,LYD,1.2,0.2608
+2736,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Handwash soap,Bar,actual,Retail,LYD,2,0.4347
+2737,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Laundry soap,KG,actual,Retail,LYD,7.9,1.7171
+2738,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+2739,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Shampoo,250 ML,actual,Retail,LYD,6.5,1.4128
+2740,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+2741,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Toothpaste,100 ML,actual,Retail,LYD,6,1.3041
+2742,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.5,0.7607
+2743,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+2744,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3.5,0.7607
+2745,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3.3,0.7173
+2746,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.3,0.7173
+2747,1/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,4,0.8694
+2748,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+2749,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.75,0.8151
+2750,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.38,0.2989
+2751,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Potatoes,KG,actual,Retail,LYD,1.75,0.3804
+2752,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+2753,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.5,0.5434
+2754,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,14.75,3.206
+2755,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5.07,1.102
+2756,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,10.56,2.2964
+2757,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,29.25,6.3577
+2758,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.41,0.3054
+2759,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.88,0.8423
+2760,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,12,2.6083
+2761,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+2762,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,miscellaneous food,Sugar,KG,actual,Retail,LYD,5,1.0868
+2763,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.25,1.3585
+2764,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+2765,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+2766,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Diapers,30 pcs,actual,Retail,LYD,14.06,3.056
+2767,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.89,1.2813
+2768,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Handwash soap,Bar,actual,Retail,LYD,1.5,0.326
+2769,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Laundry soap,KG,actual,Retail,LYD,6.79,1.4769
+2770,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,2.5,0.5434
+2771,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Shampoo,250 ML,actual,Retail,LYD,3.9,0.8488
+2772,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Toothbrush,Brush,actual,Retail,LYD,2.5,0.5434
+2773,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Toothpaste,100 ML,actual,Retail,LYD,6,1.3041
+2774,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.25,0.7064
+2775,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+2776,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+2777,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,7,1.5215
+2778,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+2779,1/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+2798,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Diapers,30 pcs,actual,Retail,LYD,18,3.9124
+2799,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.25,1.1411
+2800,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+2801,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Laundry soap,KG,actual,Retail,LYD,7.25,1.5758
+2802,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.38,0.7336
+2803,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Shampoo,250 ML,actual,Retail,LYD,5.12,1.1139
+2804,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Toothbrush,Brush,actual,Retail,LYD,2,0.4347
+2805,1/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Toothpaste,100 ML,actual,Retail,LYD,5.75,1.2498
+2831,2/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Laundry detergent,L,actual,Retail,LYD,11.5,2.4996
+2863,2/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Laundry detergent,L,actual,Retail,LYD,3.5,0.7607
+2896,2/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Laundry detergent,L,actual,Retail,LYD,12,2.6083
+2928,2/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Laundry detergent,L,actual,Retail,LYD,4.25,0.9238
+2961,2/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Laundry detergent,L,actual,Retail,LYD,2.08,0.4532
+2994,2/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Laundry detergent,L,actual,Retail,LYD,8.25,1.7932
+3027,2/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Laundry detergent,L,actual,Retail,LYD,12,2.6083
+3039,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+3040,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.75,0.8151
+3041,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+3042,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Potatoes,KG,actual,Retail,LYD,2,0.4347
+3043,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Rice,KG,actual,Retail,LYD,3.5,0.7607
+3044,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,3.5,0.7607
+3045,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10.5,2.2822
+3046,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.69,1.0194
+3047,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,14.33,3.1147
+3048,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,37.5,8.1508
+3049,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.08,0.4521
+3050,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.5,0.7607
+3051,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,miscellaneous food,Salt,KG,actual,Retail,LYD,1.38,0.3
+3052,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,miscellaneous food,Sugar,KG,actual,Retail,LYD,4.75,1.0324
+3053,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6,1.3041
+3054,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5,1.0868
+3055,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1.25,0.2717
+3056,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Diapers,30 pcs,actual,Retail,LYD,18,3.9124
+3057,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Dishwashing liquid,L,actual,Retail,LYD,3.33,0.7238
+3058,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Handwash soap,Bar,actual,Retail,LYD,0.92,0.1989
+3059,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Laundry detergent,L,actual,Retail,LYD,1.5,0.326
+3060,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Laundry soap,KG,actual,Retail,LYD,8.33,1.8106
+3061,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4,0.8694
+3062,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Shampoo,250 ML,actual,Retail,LYD,2.81,0.6119
+3063,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Toothbrush,Brush,actual,Retail,LYD,3.25,0.7064
+3064,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Toothpaste,100 ML,actual,Retail,LYD,16,3.4777
+3065,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.75,0.8151
+3066,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,3,0.6521
+3067,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5.5,1.1955
+3068,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.5,0.5434
+3069,2/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+3091,2/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Laundry detergent,L,actual,Retail,LYD,6,1.3041
+3123,2/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Laundry detergent,L,actual,Retail,LYD,10.5,2.2822
+3156,2/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Laundry detergent,L,actual,Retail,LYD,1.5,0.326
+3188,2/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+3221,2/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Laundry detergent,L,actual,Retail,LYD,4,0.8694
+3253,2/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Laundry detergent,L,actual,Retail,LYD,3.5,0.7607
+3285,2/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Laundry detergent,L,actual,Retail,LYD,1.17,0.2543
+3316,2/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Laundry detergent,L,actual,Retail,LYD,2.38,0.5162
+3349,2/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+3382,2/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+3415,2/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Laundry detergent,L,actual,Retail,LYD,5.38,1.1683
+3448,2/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Laundry detergent,L,actual,Retail,LYD,2.75,0.5977
+3481,2/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Laundry detergent,L,actual,Retail,LYD,1.25,0.2717
+3513,2/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Laundry detergent,L,actual,Retail,LYD,5.25,1.1411
+3546,2/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+3579,2/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Laundry detergent,L,actual,Retail,LYD,1.3,0.2826
+3611,2/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+3644,2/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Laundry detergent,L,actual,Retail,LYD,1.2,0.2608
+4160,3/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Laundry detergent,L,actual,Retail,LYD,8.12,1.766
+4172,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1369
+4173,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.13,0.6803
+4174,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.13,0.2456
+4175,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Potatoes,KG,actual,Retail,LYD,1.38,0.3
+4176,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Rice,KG,actual,Retail,LYD,3.25,0.7064
+4177,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+4178,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,11.5,2.4996
+4179,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.94,0.8564
+4180,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,13.32,2.8952
+4181,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,26.5,5.7599
+4182,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.75,0.3804
+4183,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.25,0.7064
+4184,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,14.5,3.1517
+4185,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+4186,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.25,0.7064
+4187,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.88,1.4954
+4188,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4,0.8694
+4189,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+4190,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Diapers,30 pcs,actual,Retail,LYD,19.84,4.3134
+4191,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Dishwashing liquid,L,actual,Retail,LYD,4.75,1.0324
+4192,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Handwash soap,Bar,actual,Retail,LYD,2.25,0.4891
+4193,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Laundry detergent,L,actual,Retail,LYD,3.98,0.864
+4194,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Laundry soap,KG,actual,Retail,LYD,7.5,1.6302
+4195,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,1.75,0.3804
+4196,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Shampoo,250 ML,actual,Retail,LYD,1.7,0.3695
+4197,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Toothbrush,Brush,actual,Retail,LYD,2.67,0.5793
+4198,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.25,0.4891
+4199,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.63,0.789
+4200,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,4.6,0.9998
+4201,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6.13,1.3324
+4202,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.13,0.463
+4203,3/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+4236,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.12,0.2445
+4237,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.12,0.6792
+4238,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.5,0.326
+4239,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Potatoes,KG,actual,Retail,LYD,1.88,0.4075
+4240,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Rice,KG,actual,Retail,LYD,3.38,0.7336
+4241,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.25,0.2717
+4242,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10.75,2.3366
+4243,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.07,0.8836
+4244,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,10.25,2.2279
+4245,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,24.75,5.3796
+4246,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.5,0.5434
+4247,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.25,0.7064
+4248,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,17.13,3.7233
+4249,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,miscellaneous food,Salt,KG,actual,Retail,LYD,1.11,0.2413
+4250,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.75,0.8151
+4251,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.5,1.4128
+4252,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,5.12,1.1139
+4253,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+4254,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Diapers,30 pcs,actual,Retail,LYD,19.38,4.2113
+4255,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.71,1.2411
+4256,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Handwash soap,Bar,actual,Retail,LYD,1.88,0.4075
+4257,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Laundry detergent,L,actual,Retail,LYD,5.12,1.1139
+4258,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Laundry soap,KG,actual,Retail,LYD,5,1.0868
+4259,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.35,0.7281
+4260,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Shampoo,250 ML,actual,Retail,LYD,1.08,0.2358
+4261,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Toothbrush,Brush,actual,Retail,LYD,4,0.8694
+4262,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Toothpaste,100 ML,actual,Retail,LYD,2,0.4347
+4263,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.38,0.7336
+4264,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+4265,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4,0.8694
+4266,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,vegetables and fruits,Onions,KG,actual,Retail,LYD,1.75,0.3804
+4267,3/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,1.38,0.2989
+4301,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.1369
+4302,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.12,0.6792
+4303,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.41,0.3054
+4304,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Potatoes,KG,actual,Retail,LYD,1.5,0.326
+4305,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Rice,KG,actual,Retail,LYD,3.38,0.7336
+4306,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.25,0.4891
+4307,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,11.38,2.4724
+4308,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.35,0.7292
+4309,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.5,2.4996
+4310,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,32.5,7.0641
+4311,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,1.75,0.3804
+4312,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.38,0.7336
+4313,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,milk and dairy,"Milk (powder, infant formula)",KG,actual,Retail,LYD,18,3.9124
+4314,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+4315,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,miscellaneous food,Sugar,KG,actual,Retail,LYD,3.5,0.7607
+4316,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,5,1.0868
+4317,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,3.62,0.7879
+4318,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,1,0.2174
+4319,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Diapers,30 pcs,actual,Retail,LYD,19.82,4.308
+4320,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.25,1.1411
+4321,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Handwash soap,Bar,actual,Retail,LYD,0.88,0.1902
+4322,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Laundry detergent,L,actual,Retail,LYD,3.62,0.7879
+4323,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Laundry soap,KG,actual,Retail,LYD,6.67,1.4487
+4324,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,1.38,0.2989
+4325,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Shampoo,250 ML,actual,Retail,LYD,2.58,0.5619
+4326,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Toothbrush,Brush,actual,Retail,LYD,2.17,0.4706
+4327,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Toothpaste,100 ML,actual,Retail,LYD,3,0.6521
+4328,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,oil and fats,Oil (vegetable),L,actual,Retail,LYD,2.5,0.5434
+4329,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,6,1.3041
+4330,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6.75,1.4672
+4331,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,vegetables and fruits,Onions,KG,actual,Retail,LYD,2.38,0.5162
+4332,3/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,2,0.4347
+4616,3/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Laundry detergent,L,actual,Retail,LYD,7.88,1.7117
+4644,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Diapers,30 pcs,actual,Retail,LYD,20,4.3471
+4645,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Dishwashing liquid,L,actual,Retail,LYD,5.5,1.1955
+4646,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Handwash soap,Bar,actual,Retail,LYD,1,0.2174
+4647,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Laundry detergent,L,actual,Retail,LYD,6.75,1.4672
+4648,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Laundry soap,KG,actual,Retail,LYD,1.5,0.326
+4649,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,1.4,0.3043
+4650,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Shampoo,250 ML,actual,Retail,LYD,1.05,0.2282
+4651,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Toothbrush,Brush,actual,Retail,LYD,3.5,0.7607
+4652,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.75,0.5977
+4654,3/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.38,0.5162
+5712,5/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3.44,0.7477
+5745,5/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Fuel (gas),11 KG,actual,Retail,LYD,10,2.1736
+5778,5/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3.44,0.7477
+5810,5/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Fuel (gas),11 KG,actual,Retail,LYD,7.33,1.5932
+5843,5/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Fuel (gas),11 KG,actual,Retail,LYD,68.75,14.9432
+5876,5/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3.67,0.7977
+5909,5/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Fuel (gas),11 KG,actual,Retail,LYD,2.06,0.4478
+5942,5/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Fuel (gas),11 KG,actual,Retail,LYD,15,3.2603
+5974,5/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Fuel (gas),11 KG,actual,Retail,LYD,45,9.781
+6006,5/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Fuel (gas),11 KG,actual,Retail,LYD,60,13.0413
+6039,5/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Fuel (gas),11 KG,actual,Retail,LYD,50,10.8678
+6071,5/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Fuel (gas),11 KG,actual,Retail,LYD,46.25,10.0527
+6104,5/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Fuel (gas),11 KG,actual,Retail,LYD,47.5,10.3244
+6136,5/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Fuel (gas),11 KG,actual,Retail,LYD,30,6.5207
+6169,5/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5,1.0868
+6201,5/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Fuel (gas),11 KG,actual,Retail,LYD,4,0.8694
+6234,5/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5,1.0868
+6267,5/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Fuel (gas),11 KG,actual,Retail,LYD,1.83,0.3978
+6299,5/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5.25,1.1411
+6308,5/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.38,0.5162
+6332,5/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Fuel (gas),11 KG,actual,Retail,LYD,1.83,0.3978
+6364,5/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3,0.6521
+6397,5/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Fuel (gas),11 KG,actual,Retail,LYD,10,2.1736
+6430,5/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Fuel (gas),11 KG,actual,Retail,LYD,20,4.3471
+6462,5/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5,1.0868
+6493,5/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Water (drinking),L,actual,Retail,LYD,1.75,0.3804
+6517,5/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Water (drinking),L,actual,Retail,LYD,1.75,0.3804
+6543,5/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Fuel (gas),11 KG,actual,Retail,LYD,11.5,2.4996
+6575,5/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Fuel (gas),11 KG,actual,Retail,LYD,21.25,4.6188
+6997,6/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5,1.0868
+7044,6/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Fuel (gas),11 KG,actual,Retail,LYD,37.5,8.1508
+7186,6/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3.75,0.8151
+7187,6/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Water (drinking),L,actual,Retail,LYD,2,0.4347
+7209,6/15/2018,West,Tripoli,Hai Alandalus,32.875103,13.12825108,non-food,Fuel (gas),11 KG,actual,Retail,LYD,17.5,3.8037
+7221,6/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,cereals and tubers,Rice,KG,actual,Retail,LYD,3,0.6521
+7234,6/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Fuel (gas),11 KG,actual,Retail,LYD,2.75,0.5977
+7235,6/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Water (drinking),L,actual,Retail,LYD,2,0.4347
+7259,6/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Fuel (gas),11 KG,actual,Retail,LYD,17.5,3.8037
+7992,7/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.75,0.5977
+9350,9/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9384,9/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Water (drinking),L,actual,Retail,LYD,2.5,0.5434
+9418,9/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9451,9/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Water (drinking),L,actual,Retail,LYD,1.55,0.338
+9485,9/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Water (drinking),L,actual,Retail,LYD,2,0.4347
+9519,9/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9553,9/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9609,9/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9642,9/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Water (drinking),L,actual,Retail,LYD,5,1.0868
+9676,9/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Water (drinking),L,actual,Retail,LYD,1.5,0.326
+9709,9/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Water (drinking),L,actual,Retail,LYD,1.5,0.326
+9743,9/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Water (drinking),L,actual,Retail,LYD,1.75,0.3804
+9776,9/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Water (drinking),L,actual,Retail,LYD,1.5,0.326
+9810,9/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+9851,9/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Water (drinking),L,actual,Retail,LYD,4,0.8694
+9885,9/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Water (drinking),L,actual,Retail,LYD,1.62,0.3532
+9918,9/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Water (drinking),L,actual,Retail,LYD,1.88,0.4075
+9952,9/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Water (drinking),L,actual,Retail,LYD,2.88,0.6249
+9985,9/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Water (drinking),L,actual,Retail,LYD,1.62,0.3532
+10019,9/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Water (drinking),L,actual,Retail,LYD,1.25,0.2717
+10053,9/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Water (drinking),L,actual,Retail,LYD,2.5,0.5434
+10086,9/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Water (drinking),L,actual,Retail,LYD,3,0.6521
+10120,9/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Water (drinking),L,actual,Retail,LYD,3.06,0.6662
+10152,9/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Water (drinking),L,actual,Retail,LYD,1,0.2174
+10255,9/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Water (drinking),L,actual,Retail,LYD,3,0.6521
+10288,9/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Water (drinking),L,actual,Retail,LYD,3,0.6521
+10322,10/15/2018,East,Al Jabal Al Akhdar,Albayda,32.760952,21.75771713,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10357,10/15/2018,East,Alkufra,Alkufra,24.19876862,23.29319191,non-food,Water,L,actual,Retail,LYD,3,0.6521
+10392,10/15/2018,East,Almarj,AlMarj,32.48571396,20.8338356,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10426,10/15/2018,East,Benghazi,Benghazi,32.12883377,20.08172035,non-food,Water,L,actual,Retail,LYD,0.88,0.1902
+10461,10/15/2018,East,Derna,Derna,32.75938034,22.63831902,non-food,Water,L,actual,Retail,LYD,2.5,0.5434
+10496,10/15/2018,East,Ejdabia,Ejdabia,30.75500298,20.22332573,non-food,Water,L,actual,Retail,LYD,1.5,0.326
+10531,10/15/2018,East,Tobruk,Tobruk,32.07743073,23.96001434,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10566,10/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Water,L,actual,Retail,LYD,2.5,0.5434
+10567,10/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,non-food,Water (drinking),L,actual,Retail,LYD,2.5,0.5434
+10569,10/15/2018,South,Aljufra,Aljufra,27.98350906,16.91225052,pulses and nuts,Beans,400 G,actual,Retail,LYD,3.5,0.7607
+10601,10/15/2018,South,Ghat,Ghat,24.96262932,10.17971706,non-food,Water,L,actual,Retail,LYD,4.5,0.9781
+10635,10/15/2018,South,Murzuq,Algatroun,24.88885117,14.53148365,non-food,Water,L,actual,Retail,LYD,5,1.0868
+10670,10/15/2018,South,Murzuq,Murzuq,25.91408539,13.9197197,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10704,10/15/2018,South,Sebha,Sebha,27.03734016,14.42531967,non-food,Water,L,actual,Retail,LYD,2.5,0.5434
+10738,10/15/2018,South,Ubari,Ubari,26.58852768,12.76611328,non-food,Water,L,actual,Retail,LYD,4.38,0.9509
+10772,10/15/2018,South,Wadi Ashshati,Brak,27.55163002,14.27214432,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10806,10/15/2018,West,Al Jabal Al Gharbi,Azzintan,31.93036079,12.24836159,non-food,Water,L,actual,Retail,LYD,1.75,0.3804
+10840,10/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Water,L,actual,Retail,LYD,1.25,0.2717
+10841,10/15/2018,West,Al Jabal Al Gharbi,Ghiryan,32.1715889,13.02114487,non-food,Water (drinking),L,actual,Retail,LYD,1.25,0.2717
+10875,10/15/2018,West,Aljfara,Al Aziziya,32.53308868,13.01762009,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10910,10/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10944,10/15/2018,West,Almargeb,Tarhuna,32.4279213,13.64192581,non-food,Water,L,actual,Retail,LYD,2,0.4347
+10979,10/15/2018,West,Azzawya,Azzawya,32.76302719,12.73649597,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11012,10/15/2018,West,Misrata,Bani Waleed,31.79758072,14.05368042,non-food,Water,L,actual,Retail,LYD,1.88,0.4075
+11047,10/15/2018,West,Misrata,Misrata,32.32565308,15.09903908,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11081,10/15/2018,West,Misrata,Zliten,32.46756363,14.56564045,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11115,10/15/2018,West,Nalut,Ghadamis,30.12584114,9.490065575,non-food,Water,L,actual,Retail,LYD,2.5,0.5434
+11150,10/15/2018,West,Nalut,Nalut,31.86422729,10.98298264,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11184,10/15/2018,West,Sirt,Sirt,31.20596313,16.58362007,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11219,10/15/2018,West,Tripoli,Abusliem,32.87030029,13.22827148,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11264,10/15/2018,West,Tripoli,Suq Aljumaa,32.83850098,13.18310547,non-food,Water,L,actual,Retail,LYD,1.88,0.4075
+11299,10/15/2018,West,Tripoli,Tripoli center,32.85258484,13.22932529,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11334,10/15/2018,West,Zwara,Sabratha,32.7906189,12.48266983,non-food,Water,L,actual,Retail,LYD,2,0.4347
+11368,10/15/2018,West,Zwara,Zwara,32.91911316,12.07797241,non-food,Water,L,actual,Retail,LYD,2,0.4347
+12063,12/15/2018,West,Almargeb,Alkhums,32.64704132,14.26348972,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.75,0.5977
+16172,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+16173,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Couscous,KG,actual,Retail,LYD,2.31,0.5026
+16174,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.25,0.2717
+16175,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.83,0.8332
+16176,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Rice,KG,actual,Retail,LYD,2,0.4347
+16177,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.12,0.4619
+16178,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10.38,2.2551
+16179,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3,0.6521
+16180,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,9,1.9562
+16181,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,43,9.3463
+16182,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2,0.4347
+16183,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.25,0.7064
+16184,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+16185,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,miscellaneous food,Sugar,KG,actual,Retail,LYD,2,0.4347
+16186,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,4.75,1.0324
+16187,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,2.75,0.5977
+16188,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.31,0.5026
+16189,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Diapers,30 pcs,actual,Retail,LYD,14,3.043
+16190,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Dishwashing liquid,L,actual,Retail,LYD,1,0.2174
+16191,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Fuel (gas),11 KG,actual,Retail,LYD,6,1.3041
+16192,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Handwash soap,Bar,actual,Retail,LYD,1.5,0.326
+16193,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Laundry detergent,L,actual,Retail,LYD,1,0.2174
+16194,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Laundry soap,KG,actual,Retail,LYD,2,0.4347
+16195,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,2.5,0.5434
+16196,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Shampoo,250 ML,actual,Retail,LYD,3.12,0.6792
+16197,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Toothbrush,Brush,actual,Retail,LYD,3,0.6521
+16198,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.75,0.5977
+16199,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,non-food,Water (drinking),L,actual,Retail,LYD,0.36,0.0782
+16200,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5.75,1.2498
+16201,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,pulses and nuts,Beans,400 G,actual,Retail,LYD,1.5,0.326
+16202,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,1.25,0.2717
+16203,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5.83,1.2679
+16204,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.83,0.8332
+16205,4/15/2019,West,Al Jabal Al Gharbi,Ashshgega,31.6500258,12.8169757,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,4,0.8694
+16273,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+16274,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.58,0.7787
+16275,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.88,0.4086
+16276,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Potatoes,KG,actual,Retail,LYD,4.06,0.883
+16277,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+16278,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.75,0.3804
+16279,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10.25,2.2279
+16280,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.5,0.7607
+16281,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,7,1.5215
+16282,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,33,7.1727
+16283,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2,0.4347
+16284,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.56,0.7743
+16285,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+16286,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,miscellaneous food,Sugar,KG,actual,Retail,LYD,2,0.4347
+16287,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,4.89,1.0623
+16288,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,2.62,0.5706
+16289,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.31,0.5026
+16290,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Diapers,30 pcs,actual,Retail,LYD,14.62,3.1788
+16291,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Dishwashing liquid,L,actual,Retail,LYD,2.62,0.5706
+16292,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Fuel (gas),11 KG,actual,Retail,LYD,7.5,1.6302
+16293,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Handwash soap,Bar,actual,Retail,LYD,1.5,0.326
+16294,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Laundry detergent,L,actual,Retail,LYD,2.44,0.5298
+16295,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Laundry soap,KG,actual,Retail,LYD,1.75,0.3804
+16296,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,4,0.8694
+16297,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Shampoo,250 ML,actual,Retail,LYD,3.75,0.8151
+16298,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Toothbrush,Brush,actual,Retail,LYD,1.75,0.3804
+16299,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.37,0.5157
+16300,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,non-food,Water (drinking),L,actual,Retail,LYD,0.29,0.063
+16301,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4.5,0.9781
+16302,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,1.5,0.326
+16303,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4.12,0.8966
+16304,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,vegetables and fruits,Onions,KG,actual,Retail,LYD,4,0.8694
+16305,4/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.19,0.6928
+16340,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1,0.2174
+16341,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Couscous,KG,actual,Retail,LYD,2.5,0.5434
+16342,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1,0.2174
+16343,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.75,0.8151
+16344,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Rice,KG,actual,Retail,LYD,4.5,0.9781
+16345,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2,0.4347
+16346,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10,2.1736
+16347,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.5,0.7607
+16348,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,10,2.1736
+16349,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,40,8.6942
+16350,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2,0.4347
+16351,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,4,0.8694
+16352,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+16353,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,miscellaneous food,Sugar,KG,actual,Retail,LYD,2,0.4347
+16354,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6.25,1.3585
+16355,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4,0.8694
+16356,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.25,0.4891
+16357,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Diapers,30 pcs,actual,Retail,LYD,15,3.2603
+16358,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Dishwashing liquid,L,actual,Retail,LYD,1,0.2174
+16359,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Fuel (gas),11 KG,actual,Retail,LYD,5,1.0868
+16360,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Handwash soap,Bar,actual,Retail,LYD,7.5,1.6302
+16361,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Laundry detergent,L,actual,Retail,LYD,1,0.2174
+16362,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Laundry soap,KG,actual,Retail,LYD,6,1.3041
+16363,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,5,1.0868
+16364,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Shampoo,250 ML,actual,Retail,LYD,3,0.6521
+16365,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Toothbrush,Brush,actual,Retail,LYD,1,0.2174
+16366,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.9,0.6303
+16367,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,non-food,Water (drinking),L,actual,Retail,LYD,0.21,0.0456
+16368,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4.5,0.9781
+16369,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2,0.4347
+16370,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6,1.3041
+16371,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,vegetables and fruits,Onions,KG,actual,Retail,LYD,3,0.6521
+16372,4/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3,0.6521
+16406,4/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3,0.6521
+16743,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+16744,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.38,0.7336
+16745,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2.06,0.4483
+16746,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Potatoes,KG,actual,Retail,LYD,4,0.8694
+16747,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Rice,KG,actual,Retail,LYD,3.75,0.8151
+16748,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.25,0.4891
+16749,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,9.75,2.1192
+16750,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,4.56,0.9917
+16751,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,7.25,1.5758
+16752,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,35,7.6074
+16753,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.06,0.4483
+16754,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.75,0.8151
+16755,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+16756,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,miscellaneous food,Sugar,KG,actual,Retail,LYD,2,0.4347
+16757,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,3.38,0.7336
+16758,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,3.5,0.7607
+16759,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.94,0.6385
+16760,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Diapers,30 pcs,actual,Retail,LYD,31.25,6.7924
+16761,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Dishwashing liquid,L,actual,Retail,LYD,3.88,0.8423
+16762,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Fuel (gas),11 KG,actual,Retail,LYD,3.5,0.7607
+16763,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Handwash soap,Bar,actual,Retail,LYD,2,0.4347
+16764,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Laundry detergent,L,actual,Retail,LYD,3.88,0.8423
+16765,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Laundry soap,KG,actual,Retail,LYD,8.25,1.7932
+16766,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3,0.6521
+16767,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Shampoo,250 ML,actual,Retail,LYD,7.12,1.5487
+16768,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Toothbrush,Brush,actual,Retail,LYD,3.69,0.8015
+16769,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Toothpaste,100 ML,actual,Retail,LYD,5.75,1.2498
+16770,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,non-food,Water (drinking),L,actual,Retail,LYD,0.29,0.0641
+16771,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4.62,1.0053
+16772,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,pulses and nuts,Beans,400 G,actual,Retail,LYD,3,0.6521
+16773,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.75,0.5977
+16774,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,5.75,1.2498
+16775,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.38,0.7336
+16776,4/15/2019,West,Tripoli,Tajoura,32.88344465,13.35254751,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.5,0.7607
+17342,5/15/2019,West,Al Jabal Al Gharbi,Yefren,32.06383909,12.52765064,pulses and nuts,Beans,400 G,actual,Retail,LYD,1.88,0.4075
+17376,5/15/2019,West,Aljfara,Janzour,32.82559273,13.02606677,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.38,0.5162
+17413,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+17414,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Couscous,KG,actual,Retail,LYD,3.5,0.7607
+17415,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.44,0.3124
+17416,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.5,0.7607
+17417,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Rice,KG,actual,Retail,LYD,3.25,0.7064
+17418,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,1.5,0.326
+17419,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12.5,2.7169
+17420,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.25,0.7064
+17421,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,11.94,2.5947
+17422,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,39.25,8.5312
+17423,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2.88,0.6249
+17424,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.69,0.8015
+17425,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+17426,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,miscellaneous food,Sugar,KG,actual,Retail,LYD,2.44,0.5298
+17427,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,6,1.3041
+17428,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,3.62,0.7879
+17429,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2,0.4347
+17430,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Diapers,30 pcs,actual,Retail,LYD,15.62,3.3962
+17431,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Dishwashing liquid,L,actual,Retail,LYD,0.75,0.163
+17433,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Handwash soap,Bar,actual,Retail,LYD,1.06,0.2309
+17434,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Laundry detergent,L,actual,Retail,LYD,1,0.2174
+17435,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Laundry soap,KG,actual,Retail,LYD,3.81,0.8287
+17436,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.88,0.8423
+17437,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Shampoo,250 ML,actual,Retail,LYD,3.62,0.7879
+17438,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Toothbrush,Brush,actual,Retail,LYD,0.88,0.1902
+17439,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Toothpaste,100 ML,actual,Retail,LYD,1.5,0.326
+17440,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,non-food,Water (drinking),L,actual,Retail,LYD,0.29,0.063
+17441,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,oil and fats,Oil (vegetable),L,actual,Retail,LYD,3.62,0.7879
+17442,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2,0.4347
+17443,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,4.12,0.8966
+17444,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,vegetables and fruits,Onions,KG,actual,Retail,LYD,5.88,1.277
+17445,5/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,4.12,0.8966
+17646,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.25,0.2717
+17647,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Couscous,KG,actual,Retail,LYD,4.25,0.9238
+17648,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Pasta,500 G,actual,Retail,LYD,1.88,0.4086
+17649,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Potatoes,KG,actual,Retail,LYD,3.88,0.8423
+17650,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Rice,KG,actual,Retail,LYD,3.44,0.7472
+17651,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,2.31,0.5026
+17652,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,10,2.1736
+17653,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,3.19,0.6928
+17654,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,7.94,1.7253
+17655,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,33.5,7.2814
+17656,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,2,0.4347
+17657,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,3.69,0.8015
+17658,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,miscellaneous food,Salt,KG,actual,Retail,LYD,1,0.2174
+17659,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,miscellaneous food,Sugar,KG,actual,Retail,LYD,1.94,0.4211
+17660,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,4.38,0.9509
+17661,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,2.5,0.5434
+17662,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.88,0.6249
+17663,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Diapers,30 pcs,actual,Retail,LYD,14.75,3.206
+17664,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Dishwashing liquid,L,actual,Retail,LYD,3.25,0.7064
+17665,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Fuel (gas),11 KG,actual,Retail,LYD,6.25,1.3585
+17666,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Handwash soap,Bar,actual,Retail,LYD,1.44,0.3124
+17667,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Laundry detergent,L,actual,Retail,LYD,2.38,0.5162
+17668,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Laundry soap,KG,actual,Retail,LYD,1.94,0.4211
+17669,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,3.5,0.7607
+17670,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Shampoo,250 ML,actual,Retail,LYD,3.19,0.6928
+17671,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Toothbrush,Brush,actual,Retail,LYD,1.38,0.2989
+17672,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Toothpaste,100 ML,actual,Retail,LYD,2.5,0.5434
+17673,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,non-food,Water (drinking),L,actual,Retail,LYD,0.29,0.063
+17674,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,oil and fats,Oil (vegetable),L,actual,Retail,LYD,4.44,0.9645
+17675,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,1.56,0.3396
+17676,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,3.75,0.8151
+17677,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.12,0.6792
+17678,5/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.31,0.72
+19549,7/15/2019,West,Almargeb,Msallata,32.57992193,14.04173707,pulses and nuts,Beans,400 G,actual,Retail,LYD,2,0.4347
+19783,7/15/2019,West,Tripoli,Ain Zara,32.81333299,13.26972195,pulses and nuts,Beans,400 G,actual,Retail,LYD,1.69,0.3668
+21333,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Bread,5 pcs,actual,Retail,LYD,1.67,0.363
+21334,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Couscous,KG,actual,Retail,LYD,4,0.8694
+21335,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Pasta,500 G,actual,Retail,LYD,2,0.4347
+21336,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Potatoes,KG,actual,Retail,LYD,4.5,0.9781
+21337,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Rice,KG,actual,Retail,LYD,4,0.8694
+21338,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,cereals and tubers,Wheat flour,KG,actual,Retail,LYD,3,0.6521
+21339,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,"meat, fish and eggs",Eggs,30 pcs,actual,Retail,LYD,12,2.6083
+21340,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,"meat, fish and eggs","Fish (tuna, canned)",200 G,actual,Retail,LYD,5,1.0868
+21341,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,"meat, fish and eggs",Meat (chicken),KG,actual,Retail,LYD,13.33,2.8974
+21342,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,"meat, fish and eggs",Meat (lamb),KG,actual,Retail,LYD,35,7.6074
+21343,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,milk and dairy,Milk (condensed),200 ML,actual,Retail,LYD,4,0.8694
+21344,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,milk and dairy,Milk (pasteurized),L,actual,Retail,LYD,5,1.0868
+21345,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,miscellaneous food,Salt,KG,actual,Retail,LYD,2,0.4347
+21346,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,miscellaneous food,Sugar,KG,actual,Retail,LYD,3,0.6521
+21347,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,miscellaneous food,Tea (black),250 G,actual,Retail,LYD,8,1.7388
+21348,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,miscellaneous food,Tea (green),250 G,actual,Retail,LYD,4,0.8694
+21349,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,miscellaneous food,Tomatoes (paste),400 G,actual,Retail,LYD,2.5,0.5434
+21350,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Diapers,30 pcs,actual,Retail,LYD,18,3.9124
+21351,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Dishwashing liquid,L,actual,Retail,LYD,2,0.4347
+21352,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Fuel (gas),11 KG,actual,Retail,LYD,55,11.9546
+21353,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Handwash soap,Bar,actual,Retail,LYD,1.5,0.326
+21354,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Laundry detergent,L,actual,Retail,LYD,2,0.4347
+21355,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Laundry soap,KG,actual,Retail,LYD,6.67,1.449
+21356,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Sanitary pads,10 pcs,actual,Retail,LYD,6,1.3041
+21357,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Shampoo,250 ML,actual,Retail,LYD,6.25,1.3585
+21358,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Toothbrush,Brush,actual,Retail,LYD,1.5,0.326
+21359,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Toothpaste,100 ML,actual,Retail,LYD,7,1.5215
+21360,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,non-food,Water (drinking),L,actual,Retail,LYD,0.57,0.1239
+21361,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,oil and fats,Oil (vegetable),L,actual,Retail,LYD,5,1.0868
+21362,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,pulses and nuts,Beans,400 G,actual,Retail,LYD,2.5,0.5434
+21363,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,pulses and nuts,Chickpeas,400 G,actual,Retail,LYD,2.5,0.5434
+21364,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,vegetables and fruits,Chili (green),KG,actual,Retail,LYD,6,1.3041
+21365,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,vegetables and fruits,Onions,KG,actual,Retail,LYD,3.5,0.7607
+21366,9/15/2019,South,Murzuq,Wadi Etba,26.0866,13.5098,vegetables and fruits,Tomatoes,KG,actual,Retail,LYD,3.5,0.7607
