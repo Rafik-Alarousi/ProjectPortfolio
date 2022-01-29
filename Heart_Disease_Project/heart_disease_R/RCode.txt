@@ -1,0 +1,190 @@
+---
+  title: "Heart Disease Data Exploration"
+  author: "Rafik Alarousi"
+  date: "15/12/2021"
+  output: html_document
+---
+    
+
+## Download & Installation.
+
+    
+install.packages("tidyverse")
+install.packages("corrplot")
+  
+library(tidyverse)
+library(janitor)
+library(corrplot)
+  
+
+## Loading dataset & Using Janitor to clean Empty Data Rows & Columns.
+
+
+heart_disease <- read.csv("heart_disease.csv")
+
+heart_disease <- janitor ::remove_empty(heart_disease, which = c("cols"))
+heart_disease <- janitor ::remove_empty(heart_disease, which = c("rows"))
+
+
+## Correlation Plot.
+
+
+corrplot(cor(heart_disease), type="lower")
+
+
+## Renaming variables for clarity.
+
+
+heart_disease$sex[heart_disease$sex == 0] = "female"
+heart_disease$sex[heart_disease$sex == 1] = "male"
+heart_disease$cp[heart_disease$cp == 0] = "typical angina"
+heart_disease$cp[heart_disease$cp == 1] = "atypical angina"
+heart_disease$cp[heart_disease$cp == 2] = "non-anginal pain"
+heart_disease$cp[heart_disease$cp == 3] = "asymptomatic"
+heart_disease$exang[heart_disease$exang == 0] = "no"
+heart_disease$exang[heart_disease$exang == 1] = "yes"
+heart_disease$slope[heart_disease$slope == 0] = "upsloping"
+heart_disease$slope[heart_disease$slope == 1] = "flat"
+heart_disease$slope[heart_disease$slope == 2] = "downsloping"
+heart_disease$thal[heart_disease$thal == 1] = "normal"
+heart_disease$thal[heart_disease$thal == 2] = "fixed defect"
+heart_disease$thal[heart_disease$thal == 3] = "reversible defect"
+heart_disease$target1 = heart_disease$target
+heart_disease$target1[heart_disease$target1 == 0] = "no heart disease"
+heart_disease$target1[heart_disease$target1 == 1] = "heart disease"
+
+
+## Deleting Non-correlation variables & Empty Cells for Visualization.
+
+
+heart_disease = subset(heart_disease, select=c(-restecg, -chol,-fbs))
+heart_disease <- heart_disease[-c(15,320,330,360,687,735,894), ]
+
+
+## Creating Variables for Visualization.
+
+
+male_data = heart_disease[heart_disease$sex=="male",]
+female_data = heart_disease[heart_disease$sex=="female",]
+heart_rate <- (heart_disease$thalach)
+chest_pain <- (heart_disease$cp)
+thallasemia <- (heart_disease$thal)
+slope <- (heart_disease$slope)
+
+
+## Proportion of people with or without Heart Disease.
+
+
+round(prop.table(table(heart_disease$target1)),2)
+
+
+## Distribution of age of the popuation.
+
+ggplot(heart_disease, aes(x=age)) +
+  geom_histogram(color="darkblue", fill="lightblue") + ggtitle("Distribution of age of the population")+
+  xlab("Age") + ylab("Density")
+
+
+## Dividing each age group & Finding number of people with heart disease in each age group.
+
+
+heart_disease$age_group = cut(heart_disease$age, breaks = seq(25, 80, 5))
+
+target_by_age = heart_disease %>%
+  group_by(age_group) %>%
+  summarise(heart_disease = sum(target))
+target_by_age
+
+
+## Bar plot to show number of Heart Disease in each age group.
+
+
+target_by_age %>%
+  ggplot(aes(x=age_group, y=heart_disease)) +
+  geom_bar(stat="identity", fill="#0000FF", alpha=.6, width=.4) +
+  xlab("") + ylab("Number of People with Heart Disease") + ggtitle("Number of Heart disease in Age Group") + 
+  theme_minimal()
+
+
+## Gender proportion in the dataset.
+
+
+round(prop.table(table(heart_disease$sex)),2)
+
+
+## Proportion of males & females with Heart Disease.
+
+
+round(prop.table(table(heart_disease$sex, heart_disease$target1)), 2)
+
+
+## Heart Rate in correlation with Heart Disease.
+
+
+ggplot(data=heart_disease, aes(x=target1, y=heart_rate)) +
+   scale_x_discrete(labels = c('Heart Disease','No Heart Disease')) +
+   geom_point(color="#0000FF", fill="#000000", alpha=.100) +
+   xlab("") + ylab("Heart Rate") + ggtitle("Heart Rate In Correlation With Heart Disease") + 
+   theme_gray()
+         
+
+## Heart Rate In Correlation With Chest Pain.
+
+
+ggplot(data=heart_disease, aes(x=chest_pain, y=heart_rate)) +
+     geom_point(color="#0000FF", fill="#0000FF", alpha=.9) +
+       xlab("") + ylab("Heart Rate") + ggtitle("Heart Rate In Correlation With Chest Pain") + 
+       theme_gray()
+
+## Heart Rate in correlation with Thallasemia Blood Disorder.
+
+ggplot(heart_disease, aes(x=thallasemia, y=heart_rate)) +
+  geom_point(color="darkblue", fill="lightblue", alpha=.9) + ggtitle("Heart Rate In Correlation With Thallasemia Blood Disorder")+
+  xlab("") + ylab("Heart Rate")
+
+
+## Heart Rate in correlation with Types Of The Peak Exercise Slopes.
+
+
+ggplot(heart_disease, aes(x= heart_rate, fill=slope)) + 
+  geom_bar(position = 'dodge') +
+  xlab("Heart Rate") +
+  ylab("Density") +
+  ggtitle("Heart Rate In Correlation With Slope Types") +
+  scale_fill_discrete(name = "Type Of Slope", labels = c("Downsloping", "Flat", "Upsloping"))
+
+
+## Further investigation into Types Of Slopes in correlation with Heart Disease.
+
+
+ggplot(heart_disease, aes(x= slope, fill=target1)) + 
+  geom_bar(position = 'dodge') +
+  xlab("Type of Slope") +
+  ylab("Count") +
+  ggtitle("Analysis Of Types Of Slopes") +
+  scale_fill_discrete(name = "Heart disease", labels = c("No", "Yes"))
+
+
+## Types Of Slopes For Male Population Only.
+
+
+ggplot(male_data, aes(x= slope, fill=target1)) + 
+  geom_bar(position = 'dodge') +
+  xlab("Type of Slopes") +
+  ylab("Count") +
+  ggtitle("Analysis Of Types Of Slopes For Male Population") +
+  scale_fill_discrete(name = "Heart disease", labels = c("No", "Yes"))
+
+
+## Types Of Slopes For Female Population Only.
+
+
+ggplot(female_data, aes(x= slope, fill=target1)) + 
+  geom_bar(position = 'dodge') +
+  xlab("Type Of Slopes") +
+  ylab("Count") +
+  ggtitle("Analysis Of Types Of Slopes For Female Population") +
+  scale_fill_discrete(name = "Heart disease", labels = c("No", "Yes"))
+
+
+## The End.
