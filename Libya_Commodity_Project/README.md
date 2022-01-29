@@ -17,7 +17,7 @@ This is a data analytics project based on Libya Commodities Dataset from The [Hu
 
 <br/>
 
-## 🌀 [Review Full SQL Code Here ⬅️](https://github.com/Rafik-Alarousi/ProjectPortfolio/blob/main/Libya_Commodity_Project/libya_commodity_SQL/libya_commodity.sql)
+## 🌀 [Review Full SQL Code Here ⬅️](https://github.com/Rafik-Alarousi/ProjectPortfolio/blob/main/Libya_Commodity_Project/libya_commodity_SQL/libya_commodity.SQL)
 
 <br/>
 <br/>
