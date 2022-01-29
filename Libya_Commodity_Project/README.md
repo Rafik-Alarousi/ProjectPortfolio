@@ -26,7 +26,7 @@ This is a data analytics project based on Libya Commodities Dataset from The [Hu
 
 <br/>
 <br/>
-
+ 
 - Deleted the 2nd & 3rd row as a result of duplications
 - Renamed date to dates (For SQL Syntax Compatibility)
 - Renamed admin1 to cardinal_points
