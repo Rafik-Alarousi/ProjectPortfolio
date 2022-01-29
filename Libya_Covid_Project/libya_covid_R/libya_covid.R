@@ -1,0 +1,200 @@
+---
+title: "Libya Covid Data Cleaning & Exploration"
+author: "Rafik Alarousi"
+date: "20/12/2021"
+output: html_document
+---
+
+
+## Download & Installation.
+  
+
+install.packages("tidyverse")
+install.packages("readxl")
+
+library(tidyverse)
+library(readxl)
+library(janitor)
+
+
+## Loading dataset & Using Janitor to clean Empty Data Rows & Columns.
+
+
+libya_covid <- read_excel("libya_covid.xlsx")
+
+libya_covid <- janitor ::remove_empty(libya_covid, which = c("cols"))
+libya_covid <- janitor ::remove_empty(libya_covid, which = c("rows"))
+
+
+## Removing N/A Rows Dated Before The Announcement Of Covid In Libya.
+
+
+libya_covid <- libya_covid[-c(1,2,3,4,5,6,7,8,9,10,11,12,
+                                 13,14,15,16,17,18,19,20), ]
+
+
+## Replacing Missing Values with 0 in columns X and Y.
+
+
+libya_covid %>% 
+  replace_na(list(x = 0, y = 0))
+
+
+## Setting Up Variables For Data Visualization.
+
+
+date <- (libya_covid$date)
+
+new_cases <- (libya_covid$new_cases)
+total_cases <- (379816)
+
+new_deaths <- (libya_covid$new_deaths)
+total_deaths <- (5576)
+
+new_vax <- (libya_covid$people_vaccinated)
+fully_vax <- (757393)
+total_vax <- (1796814)
+
+new_tests <- (libya_covid$new_tests)
+
+pop <- (6958538)
+
+
+## Cases Per Day Analysis.
+
+
+ggplot(libya_covid, aes(x=date, y=new_cases)) +
+  geom_histogram(stat="identity", color="darkorange") + ggtitle("New Daily Cases Analysis")+
+  xlab("Date") + ylab("New Cases") +
+  theme_bw()
+
+
+## Tests Per Day Analysis.
+
+
+ggplot(libya_covid, aes(x=date, y=new_tests)) +
+  geom_histogram(stat="identity", color="blue") + ggtitle("New Daily Tests Analysis")+
+  xlab("Date") + ylab("New Tests") +
+  theme_bw()
+
+
+## New Tests & New Cases Analysis.
+
+
+ggplot(libya_covid, aes(x=date)) +
+  
+  geom_line( aes(y=new_tests, color='New Tests'), size=1.8) + 
+  geom_line( aes(y=new_cases / 1, color='New Cases'), size=1.8) +
+  
+  labs(x = "Date", y = NULL, color = NULL, title = "New Tests & New Cases Analysis") +
+  
+  scale_y_continuous(
+    sec.axis = sec_axis(~.*1)
+  ) + 
+  scale_color_manual(values = c("New Tests" ='blue', "New Cases" ='darkorange')) +
+  theme_bw() +
+  
+  theme(
+    axis.title.y = element_text(color = 'blue', size=13),
+    axis.title.y.right = element_text(color = 'darkorange', size=13),
+    legend.position = c(0.05, .95),
+    legend.justification = c(0.05, .95))
+    
+
+## Fatal Cases Per Day Analysis.
+
+
+ggplot(libya_covid, aes(x=date, y=new_deaths)) +
+  geom_bar(stat="identity", color="darkred") + ggtitle("Fatal Cases Analysis")+
+  xlab("Date") + ylab("Fatality") +
+  theme_bw()
+
+
+## Calculating Total Tests Done & Adding Variable For Visualization.
+
+
+sum(new_tests)
+
+# = 1600050 
+
+total_tests <- (1600050)
+
+
+## Total Tests & Total Cases Analysis.
+
+
+tt_tc <- data.frame(
+  group = c("Total Tests", "Total Cases"),
+  value = c(1600050, 379816))
+
+ggplot(tt_tc, aes(x=group, y=value)) + 
+  geom_bar(stat = "identity", color="black", fill=rgb(0.1, 0.4, 0.5, 0.7)) +
+  labs(x="", y="", title="Total Tests & Total Cases Analysis") +
+  theme_bw()
+
+
+## Total Tests & Total Population Analysis.
+
+
+tt_tp <- data.frame(
+  Group = c("Total Tests", "Total Population"),
+  Value = c(1600050, 6958538),
+  Percentage = c("%22.99","%77.01"))
+
+
+ggplot(tt_tp, aes(x="", y=Value, fill=Group)) +
+  geom_bar(stat="identity", width=0.9, color="white") +
+  ggtitle("Total Tests & Total Population Analysis.") +
+  scale_fill_manual(values=c("#4b4b89", "darkorange")) +
+  geom_col() +
+  geom_label(aes(label = Percentage),
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+  coord_polar("y", start=0) +
+  theme_void()
+
+
+## New Daily Vaccinations Analysis.
+
+
+ggplot(libya_covid, aes(x=date, y=new_vax)) +
+  geom_histogram(stat="identity", color="darkgreen", size=1.2) + ggtitle("New Daily Vaccinations Analysis")+
+  xlab("Date") + ylab("New Vaccinations") +
+  theme_bw()
+
+
+## Total Vaccinations Versus Fully Vaccinated Analysis.
+
+
+tv_fv <- data.frame(
+  group = c("Total Vaccinations", "Fully Vaccinated"),
+  value = c(1796814, 757393))
+
+ggplot(tv_fv, aes(x=group, y=value)) + 
+  geom_bar(stat = "identity", color="black", fill="darkgreen") +
+  labs(x="", y="", title="Total Vaccinations Versus Fully Vaccinated Analysis") +
+  theme_bw()
+
+
+## Total Fatality Versus Total Cases Analysis.
+
+
+td_tc <- data.frame(
+  Group = c("Total Fatality", "Total Cases"),
+  Value = c(5576, 379816),
+  Percentage = c("%1.46","%98.54"))
+
+
+ggplot(td_tc, aes(x="", y=Value, fill=Group)) +
+  geom_bar(stat="identity", width=0.9, color="white") +
+  ggtitle("Total Fatality & Total Cases Analysis.") +
+  scale_fill_manual(values=c("darkorange", "darkred")) +
+  geom_col() +
+  geom_label(aes(label = Percentage),
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+  coord_polar("y", start=1) +
+  theme_void()
+
+
+## The End.
